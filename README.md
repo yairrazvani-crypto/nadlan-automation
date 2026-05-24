@@ -23,8 +23,8 @@ Webhook – פנייה נכנסת מטופס באתר
 ## Credentials
 שמורים ב-n8n Credentials תחת השמות:
 - OpenAI account
-- - Google Sheets account
-  - - Telegram account
+- Google Sheets account
+  - Telegram account
    
     - ## איך בודקים שה-workflow עובד?
     - 1. שולחים POST ל-Webhook עם פרטי ליד מדומה
