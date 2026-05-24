@@ -25,8 +25,11 @@ Webhook – פנייה נכנסת מטופס באתר
 - OpenAI account
 - Google Sheets account
 - Telegram account
-   
-    - ## איך בודקים שה-workflow עובד?
-    - 1. שולחים POST ל-Webhook עם פרטי ליד מדומה
-      2. 2. בודקים שהשורה נוספה ב-Google Sheets
-         3. 3. בודקים שהגיעה הודעה בטלגרם לסוכן
+
+## איך בודקים שה-workflow עובד?
+
+1. שולחים POST ל-Webhook עם פרטי ליד מדומה
+
+2. בודקים שהשורה נוספה ב-Google Sheets
+
+3. בודקים שהגיעה הודעה בטלגרם לסוכן
